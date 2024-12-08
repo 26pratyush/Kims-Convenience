@@ -8,6 +8,7 @@ This project is based on the technical nuances of the supermarket billing system
 ![image](https://github.com/user-attachments/assets/0c864962-c8b1-4d3f-891f-112d8d9425ff)
 
 ![image](https://github.com/user-attachments/assets/176f6122-0c4b-4d2d-9be0-f3448ee5eb76)
-![image](https://github.com/user-attachments/assets/37ba7bf9-c656-40ff-8de7-b45cff8188fe)
+![image](https://github.com/user-attachments/assets/62cd78a0-79d2-4ba0-a484-9fc497ca1a59)
+
 
 
