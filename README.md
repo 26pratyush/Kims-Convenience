@@ -1,8 +1,8 @@
 This project is based on the technical nuances of the supermarket billing system, and is meant for the cashier. The program is written using Java, and features a 4-digit authentication PIN for the cashier to begin scanning. To store a large number of everyday market items that can update prices and quantity in real time, the program is connected to a MySQL database using JDBC. With this addition, all aspects of an item can be constantly updated. Other features include a discount function to set and immplement discounts on certain items, and customer points which can be redeemed by frequent customers.
 
-Frontend: Java Swing 
-Backend: Java JDBC 
-Database: MySQL
+Frontend: Java Swing <br>
+Backend: Java JDBC <br>
+Database: MySQL<br>
 
 ![image](https://github.com/user-attachments/assets/d3c75e3b-0011-4758-9c51-4c41cdfc2f93)
 
