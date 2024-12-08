@@ -1,0 +1,14 @@
+
+The system is backed by a MySQL database containing four tables:
+CashierInfo:
+Stores cashier credentials. CashierID (varchar) primary key and CashierName (varchar)
+
+CustomerInfo:
+Tracks customer details. CustomerNumber (int) primary key, CustomerName (varchar), Rewards (int)
+
+Inventory:
+Manages the stock, item names, and unique IDs for products. ItemID (varchar) primary key, ItemName (varchar), Stock (int)
+
+Discount:
+Holds price and discount details for each product. ItemID (varchar) foreign key, Price (int), Discount (int)
+
