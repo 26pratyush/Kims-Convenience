@@ -10,5 +10,5 @@ Inventory:
 Manages the stock, item names, and unique IDs for products. ItemID (varchar) primary key, ItemName (varchar), Stock (int)
 
 Discount:
-Holds price and discount details for each product. ItemID (varchar) foreign key, Price (int), Discount (int)
+Holds price and discount details for each product. ItemID (varchar) foreign key, Price (decimal), Discount (decimal)
 
