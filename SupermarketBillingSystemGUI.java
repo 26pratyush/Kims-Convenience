@@ -58,7 +58,7 @@ public class SupermarketBillingSystem extends JFrame {
             Class.forName("com.mysql.cj.jdbc.Driver");
             conn = DriverManager.getConnection(
                     "jdbc:mysql://localhost:3306/dbms",
-                    "root", "percy560077"); 
+                    "root", "<password>"); 
         } catch (Exception e) {
             outputTextArea.append("Error connecting to database: " + e.getMessage() + "\n");
         }
